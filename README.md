@@ -3,10 +3,12 @@ Hey hola aqui tienes un simple bot que procesa pagos con conekta a traves de tu 
 
 Puedes ver el bot implementado <a href="https://t.me/Conekta_bot">Tocando Aqui</a>
 
+Recuerda que necesitas un Hosting Web o VPS
+
 Requieres de alguna ayuda especial en la implementacion o quieres saber como funciona?
 
 Contactame en el siguiente correo: juanelo@michitos.xyz
 
 Espero que te guste este proyecto Usamos Conekta como proveedor de pagos.
 
-<img src="https://files.readme.io/077e409-small-Group_53.png" width="30px" heigth="40px">
+<img src="https://files.readme.io/077e409-small-Group_53.png">
